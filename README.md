@@ -1,2 +1,2 @@
 # Progress
- Implement method to update progress bar.
+ Implement method to update a progress bar.
