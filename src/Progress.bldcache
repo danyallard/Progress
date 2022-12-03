@@ -1,0 +1,23 @@
+[FED576E5-A93B-4009-9DC7-58E8D680]
+MGI RWA Section Options = 2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value = <2>
+Value 0.Checksum.Target = My Computer
+Value 0.Checksum.Build Spec = Progress
+Value 0.Checksum.Checksum = 10ecc21d5919a788629357ea45d36886
+Value 1.Checksum.Target = My Computer
+Value 1.Checksum.Build Spec = ProgressApplication
+Value 1.Checksum.Checksum = 10ecc21d5919a788629357ea45d36886
+
+[17EE768D-3C5B-4368-A48B-7114E5AD]
+MGI RWA Section Options = 2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Value = <1>
+Value 0.Checksum.Target = My Computer
+Value 0.Checksum.Build Spec = TESTProgressLib
+Value 0.Checksum.Checksum = 5e9c4161a344255de6827d8b9a56490e
+
+[Solution Explorer]
+MGI RWA Section Options=2.0.1 %04Y%02m%02d %02H%02M%S%25u*~|.%d*~|.,*~|.%#_13g
+Build Configuration=Release
+
+[Window Positions]
+Solution Explorer = "10,24,391,773"

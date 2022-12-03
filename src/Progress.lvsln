@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Solution Version="1.1">
+
+  <Version Build="0" Major="1" Minor="0" Patch="0"/>
+
+  <Config Name="Debug"/>
+
+  <Config Name="Release"/>
+
+  <Item ID="FED576E5-A93B-4009-9DC7-58E8D680" Type="Project" Version="1.1">
+    <Info Path="..\Progress.lvproj" X64="FALSE">
+      <Config Name="Debug">
+        <Debug Spec="Progress" Target="My Computer"/>
+        <Debug Spec="ProgressApplication" Target="My Computer"/>
+      </Config>
+      <Config Name="Release"/>
+    </Info>
+  </Item>
+
+  <Item ID="17EE768D-3C5B-4368-A48B-7114E5AD" Type="Project" Version="1.1">
+    <Info Path="..\TEST_ProgressLib.lvproj" X64="FALSE">
+      <Config Name="Debug">
+        <Debug Spec="TESTProgressLib" Target="My Computer"/>
+      </Config>
+      <Config Name="Release"/>
+    </Info>
+  </Item>
+
+</Solution>
